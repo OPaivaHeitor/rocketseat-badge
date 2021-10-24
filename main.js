@@ -1,6 +1,5 @@
 const user = {
   github: 'OPaivaHeitor',
-  youtube: '',
   facebook: 'heitortuc',
   instagram: 'meunome_heitor',
   twitter: 'sardinhaheitor'
